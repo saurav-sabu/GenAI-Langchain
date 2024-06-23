@@ -1,0 +1,7 @@
+ctransformers==0.2.5
+langchain==0.0.225
+sentence-transformers==2.2.2
+pypdf
+flask
+faiss-cpu
+-e .
